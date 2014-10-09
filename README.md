@@ -47,7 +47,7 @@
 
 ##### 熟练
 
-  * HTML5 / CSS3 / Javascript / jQuery / Bootstrap
+  * HTML5 / CSS3 / JavaScript / jQuery / Bootstrap
   * Photoshop / Chrome with Developer Tools / Sublime Text with Emmet & Sublimerge
   * OS X / Google
 
