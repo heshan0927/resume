@@ -10,7 +10,7 @@
 
 * 女 / 1990.9
 * 本科 / 陕西师范大学汉语言文学 / 2008.9 - 2012.6
-* 工作经验: 2年
+* 工作经验: 3年
 
 ### 求职意向
 
@@ -27,7 +27,7 @@
 
 ##### 熟练
 
-  * HTML5 / CSS3 / JavaScript / jQuery / Bootstrap
+  * HTML5 / CSS3 / JavaScript / jQuery / Zepto / SASS / Bootstrap
   * Photoshop / Chrome with Developer Tools / Sublime Text with Emmet & Sublimerge
   * OS X / Google
 
@@ -40,6 +40,11 @@
 ### 工作经历
 
 ---
+
+#### 前端开发@博采网络 (2014.10 - 2015.6)
+
+* 负责微信HTML5场景定制、微网站开发等。
+* 负责PC网站前端开发。
 
 #### 新闻主管@新华网杭州站 (2013.6 - 2014.8)
 
@@ -56,17 +61,7 @@
 
 ---
 
-* 个人Blog: <http://sherryhe.com>
-	
-	简介：
-	
-	该网站为本人自学期间独立完成的博客Demo，主要包括博客展示页面和文章管理系统。其中运用了HTML5和CSS3技术，通过Bootstrap布局，利用PHP、MySQL动态调用数据，使用JavaScript、jQuery实现部分动态交互效果。该博客制作过程中使用git进行代码管理，后期进行了主流浏览器的兼容测试，增加了部分跨平台的响应式设计。
-* 专题页面
-  * 新华土地月报: <http://www.xinhuanet.com/house/hz/zt/xw/tdyb07/index.html>
-  * 寻找金牌物业: <http://www.xinhuanet.com/house/hz/zt/xw/jpwy/index.html>
-  * 住房体验师: <http://www.xinhuanet.com/house/hz/zt/xw/zftys02/index.html>
-  * 一房一验: <http://www.xinhuanet.com/house/hz/zt/xw/yfyy/index.html>
-  * 养老房产: <http://www.xinhuanet.com/house/hz/zt/xwzt/yldc/zt/zt/index.html>
+* http://demo.sherryhe.com/
 
 ### 自我评价
 
