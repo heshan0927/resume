@@ -18,7 +18,7 @@
 * 求职岗位： 前端
 * 到岗时间： 立刻
 * 工作性质： 全职
-* 目标地点： 杭州
+* 目标地点： 杭州(未来科技城)
 
 
 ### 工作技能
@@ -28,14 +28,14 @@
 ##### 熟练
 
   * HTML5 / CSS3 / JavaScript / jQuery / Zepto / SASS / Bootstrap
-  * Photoshop / Chrome with Developer Tools / Sublime Text with Emmet & Sublimerge
+  * Photoshop / Chrome with Developer Tools / Sublime Text
   * OS X / Google
 
 ##### 熟悉
 
+* Git
 * PHP
 * MySQL
-* Git
 
 ### 工作经历
 
