@@ -10,7 +10,7 @@
 
 * 女 / 1990.9
 * 本科 / 陕西师范大学汉语言文学 / 2008.9 - 2012.6
-* 工作经验: 3年
+* 工作经验: 5年
 
 ### 求职意向
 
@@ -27,19 +27,24 @@
 
 ##### 熟练
 
-  * HTML5 / CSS3 / JavaScript / jQuery / Zepto / SASS / Bootstrap
-  * Photoshop / Chrome with Developer Tools / Sublime Text
+  * HTML5 / CSS3 / JavaScript / jQuery / Zepto / Angular / VUE / SASS / Bootstrap
+  * Git / Atom / Chrome with Developer Tools / Photoshop
   * OS X / Google
 
 ##### 熟悉
 
-* Git
 * PHP
 * MySQL
+* ES6
 
 ### 工作经历
 
 ---
+#### 前端开发@东家 （2015.8至今）
+
+* 开发h5活动及活动模板
+* 开发及维护匠人管理平台及运营管理后台
+* 负责平台基础功能页面开发，及微信端完整交易流程
 
 #### 前端开发@博采网络 (2014.10 - 2015.6)
 
@@ -49,8 +54,7 @@
 #### 新闻主管@新华网杭州站 (2013.6 - 2014.8)
 
 * 负责新闻选题的统筹、策划及执行。
-* 负责网站新闻专题制作，包括新闻专题和土地月报等。
-* 负责房产新闻采写，包括楼市行情、土地出让、楼盘动态、政策解读、人物专访和地产沙龙等。
+* 负责网站新闻专题制作及房产新闻采写。
 
 #### 记者@搜狐焦点房产杭州站 (2012.10 - 2013.6)
 
